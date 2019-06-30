@@ -6,8 +6,7 @@ Price:-
 No of Reviews:-
 
 # Requirements
-pip install requests
-pip install lxml
+pip install requests 
 
 # Working
 ![alt text](https://github.com/priyampkj/AmazonScraper/blob/master/Screen.gif)
