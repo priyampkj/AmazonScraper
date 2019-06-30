@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
+"""Scrape Amazon Products.
+           Note:
+           This is against the Amazon guide lines and thus not allowed.
+           USE THIS FOR EDUCATIONAL PURPOSES ONLY. DO NOT ACTAULLY RUN IT.
+    """
+
 def add(name,data):
 
 	with open(name, mode='a') as csv_file:
